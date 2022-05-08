@@ -1,6 +1,7 @@
 syntax match cOperator "<=" conceal cchar = ≤
 syntax match cOperator ">=" conceal cchar = ≥
 syntax match cOperator "==" conceal cchar = ═
+syntax match cOperator "!=" conceal cchar = ≠
 syntax match cOperator "<<" conceal cchar = «
 syntax match cOperator ">>" conceal cchar = »
 syntax match cOperator "__" conceal cchar = ‗
